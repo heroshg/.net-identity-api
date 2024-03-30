@@ -1,4 +1,4 @@
-# Documentação do Projeto: Autenticação e Autorização com .NET
+# Documentação do Projeto: Autenticação e Autorização com .NET 6
 
 ## Introdução
 Este repositório contém um projeto que explora os conceitos de autenticação e autorização em aplicativos .NET. O objetivo é fornecer uma base sólida para implementar sistemas de login, gerenciamento de sessões e controle de acesso.
